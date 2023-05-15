@@ -1,7 +1,7 @@
 ### Hey, I'm Matheus C. Fernandes! 👋
 
 Content Creator at [Instagram](https://www.instagram.com/mathw_fernandes/) <br>
-FullSatck Engineer at [Design-Liquido](https://designliquido.com.br/) <br>
+Backend Engineer at [Design-Liquido](https://designliquido.com.br/) <br>
 
 ### Find me elsewhere 🌎
 
